@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @eliann45
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Desarrollador | 🎮 Creador de videojuegos | 🚀 Creando experiencias únicas
 
-<!---
-eliann45/eliann45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Apasionado por el desarrollo de videojuegos, la programación y convertir ideas en proyectos reales. Me gusta crear experiencias interactivas, experimentar con nuevas tecnologías y mejorar constantemente mis habilidades.
+
+🎮 Desarrollo de juegos en Roblox
+💻 Programación y scripting
+🛠️ Creación de proyectos creativos
+🤖 Inteligencia Artificial y tecnología
+🚀 Aprendiendo y mejorando cada día
+
+Actualmente trabajando en nuevos proyectos, experimentando con diferentes ideas y creando experiencias únicas para jugadores.
+
+📌 Crear. Aprender. Mejorar. Repetir.
